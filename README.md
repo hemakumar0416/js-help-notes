@@ -10,7 +10,7 @@
 
 ## var :
 
-A variable declared with the `var` keyword is available from the written out function (as opposed to an anonymous function) it is declared in.
+A variable declared with the `var` keyword shjkehis available from the written out function (as opposed to an anonymous function) it is declared in.
 
 ## while loop :
 
